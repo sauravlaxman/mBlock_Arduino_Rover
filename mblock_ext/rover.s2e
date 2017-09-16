@@ -86,17 +86,17 @@
 		"EQ":0xFFE01F,
 		"- Key":0xFFA857,
 		"+ Key":0xFF906F,
-		"0 Key":0xFF6897,
+		"0 Key":0x800,
 		"Cross":0xFF9867,
 		"SD":0xFFB04F,
-		"1 Key":0xFF30CF,
-		"2 Key":0xFF18E7,
-		"3 Key":0xFF7A85,
-		"4 Key":0xFF10EF,
-		"5 Key":0xFF38C7,
-		"6 Key":0xFF5AA5,
-		"7 Key":0xFF42BD,
-		"8 Key":0xFF4AB5,
-		"9 Key":0xFF52AD
+		"1 Key":0x801,
+		"2 Key":0x802,
+		"3 Key":0x803,
+		"4 Key":0x804,
+		"5 Key":0x805,
+		"6 Key":0x806,
+		"7 Key":0x807,
+		"8 Key":0x808,
+		"9 Key":0x809
 	}
 }
