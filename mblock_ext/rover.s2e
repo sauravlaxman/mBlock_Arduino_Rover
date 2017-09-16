@@ -89,7 +89,7 @@
 		"0 Key":0xFF6897,
 		"Cross":0xFF9867,
 		"SD":0xFFB04F,
-		"1 Key":0xFF30CF,
+		"1 Key":0x801,
 		"2 Key":0xFF18E7,
 		"3 Key":0xFF7A85,
 		"4 Key":0xFF10EF,
